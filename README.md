@@ -4,6 +4,7 @@ Seher Zeynep Sonkaya, İpek Doğa Yalçın, Merve Nazlı Kahraman
 A real-time Turkish Sign Language (TSL) interpretation system using computer vision and deep learning.
 
 ## Overview
+![image](https://github.com/user-attachments/assets/44714c5f-6571-417c-9e76-67936cbfeb04)
 
 This project provides a real-time Turkish Sign Language interpretation system that uses a webcam to capture sign language gestures and translates them into text. The system utilizes MediaPipe for pose and hand landmark detection and a trained deep learning model for sign classification.
 
