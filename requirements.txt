@@ -1,0 +1,6 @@
+streamlit==1.45.0                 
+tensorflow>=2.19.0                
+opencv-python>=4.11.0.86
+mediapipe>=0.10.14
+numpy>=1.26.4
+
