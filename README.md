@@ -1,4 +1,5 @@
 # Turkish Sign Language Interpreter
+Seher Zeynep Sonkaya, İpek Doğa Yalçın, Merve Nazlı Kahraman
 
 A real-time Turkish Sign Language (TSL) interpretation system using computer vision and deep learning.
 
