@@ -47,7 +47,7 @@ tsl_interpreter_project/
 
 2. Create and activate a virtual environment (optional but recommended):
    ```
-   python -m venv venv
+   python3.10 -m venv venv   # Recommended to use python3.10 to avoid dependency issues
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
