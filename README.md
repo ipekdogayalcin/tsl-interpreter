@@ -60,7 +60,7 @@ tsl_interpreter_project/
 
 1. Start the Streamlit application:
    ```
-   streamlit run src/app.py
+   streamlit run run.py
    ```
 
 2. In the web interface:
